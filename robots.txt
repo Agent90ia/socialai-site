@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://socialai.rinveta.com/sitemap.xml
